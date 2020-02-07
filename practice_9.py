@@ -1,3 +1,5 @@
+
+# Otoshidama
 def finish(i, j, k):
     if (i * 10000 + j * 5000 + k * 1000) == y and (i + j + k) == n:
         print("{} {} {}".format(i, j, k,))
